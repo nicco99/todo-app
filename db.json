@@ -1,0 +1,70 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "task": "wash clothes",
+      "category": "home",
+      "date": "27-12-2022"
+    },
+    {
+      "id": "2",
+      "task": "code",
+      "category": "school",
+      "date": "28-12-2022"
+    },
+    {
+      "id": "3",
+      "task": "sleep",
+      "category": "office",
+      "date": "278-12-2022"
+    },
+    {
+      "id": "0hE22rq",
+      "task": "ddddsss",
+      "category": "cvbnm",
+      "date": "345"
+    },
+    {
+      "id": "ULp-GFG",
+      "task": "ddddsss",
+      "category": "cvbnm",
+      "date": "345"
+    },
+    {
+      "id": "t9xZrN-",
+      "task": "new todo",
+      "category": "my todo",
+      "date": "1234"
+    },
+    {
+      "id": "plrkYpr",
+      "task": "ddddsss",
+      "category": "cvbnm",
+      "date": "345"
+    },
+    {
+      "id": 9,
+      "task": "ddddsss",
+      "category": "cvbnm",
+      "date": "345"
+    },
+    {
+      "id": 111,
+      "task": "ddddsss",
+      "category": "cvbnm",
+      "date": "11134567890"
+    },
+    {
+      "id": 1211,
+      "task": "eewwwww",
+      "category": "zxcvbnm",
+      "date": "11134567890"
+    },
+    {
+      "task": "feed pigs",
+      "category": "responsibility",
+      "date": "30/10/22",
+      "id": "G2CsPEC"
+    }
+  ]
+}
